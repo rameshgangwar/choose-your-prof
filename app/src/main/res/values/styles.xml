@@ -10,6 +10,6 @@
 
     <!-- Splash screen style-->
     <style name="splashScreen" parent="Theme.MaterialComponents.Light.NoActionBar">
-
+        <item name="android:windowBackground">@drawable/splash_screen</item>
     </style>
 </resources>
