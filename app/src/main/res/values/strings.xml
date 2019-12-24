@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Choose Your Prof</string>
     <string name="textview">textview</string>
+    <string name="to_continue_please_log_in">To continue, Please log in:</string>
 </resources>

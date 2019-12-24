@@ -2,6 +2,8 @@ package com.equanimity.chooseyourprof
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.crashlytics.android.Crashlytics
+import kotlinx.android.synthetic.main.activity_main.*
 import timber.log.Timber
 
 class MainActivity : AppCompatActivity() {
